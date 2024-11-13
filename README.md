@@ -1,7 +1,7 @@
 # darija-tts
 TTS data and model for Moroccan Darija
 
-## Setup environment
+## Setup environmentj
 
 1. Clone the repository
 2. Install [DVC](https://dvc.org/doc/install) and set it up.
